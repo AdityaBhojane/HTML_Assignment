@@ -193,7 +193,7 @@ h2>span{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 30px 160px;
+    padding: 22px 160px;
     font-size: 25px;
     background-color:#01BB0A;
     border-radius: 10px;
@@ -201,4 +201,5 @@ h2>span{
     width: 600px; 
     font-weight: bold;
     cursor: pointer;
+    border: none;
 }
