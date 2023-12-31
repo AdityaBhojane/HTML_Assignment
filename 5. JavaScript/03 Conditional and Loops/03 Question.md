@@ -12,8 +12,25 @@
     }
  ```
  2) for in loop
+  ```javascript
+    for ( variable in object ){
+        // code
+    }
+  ```
  3) for of loop
+
+```javascript
+    for ( variable of iterable ){
+        // code
+    }
+```
  4) for each loop
+
+```javascript
+    array.forEach((value, index , arr)=<{
+
+    }>)
+```
  5) while loop
 
 ```javascript
